@@ -1,19 +1,40 @@
 {
-    "version": "1.0",
-    "channels": [
-        {
-            "id": "1",
-            "name": "MotoGP",
-            "logo": "https://raw.githubusercontent.com/TheDefender44/nicotv-config/main/logos/motogp_logo.png",
-            "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8",
-            "category": "Sport"
-        },
-        {
-            "id": "2",
-            "name": "News",
-            "logo": "https://raw.githubusercontent.com/TheDefender44/nicotv-config/main/logos/news.png",
-            "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8",
-            "category": "Info"
-        }
-    ]
+  "version": "1.0",
+  "channels": [
+    {
+      "id": "motogp1",
+      "name": "MotoGP",
+      "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
+      "url": "https://live-cdn-stream-euw3.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b19991d6d118e2319&bpkio_sessionid=10b0a136a194-2ee0487e-e068-4df7-962b-f66281da7b54&category=all&channel_name=BFMTV_all-desktop-Live-undefined&content_id=6346069778112&env=desktop&extra_eids=1S-first-id.fr,1ID-3b0286569c1741ff91aa7bdf1de0c9ec,1ATYPE-1!&gdpr=1&gdpr_consent=CQcD6MAQd924AAHABBENCNFsAP_gAAAAAAAALzsB7C5cQClhcDJlYOskaQRdxxBCYEAwAAABAQAFABoAIIQElGAgAAhAACACAAAAAEBAIQAhCAAABAAAIAAAICCEAAAAABAAIKAAAAABQkBACAABCQAAGAAQgAAEAgQAgAIACAqIQFAAAgAACAAAAAABAICBAAAAAAAgAAAQAAAAAGgAAIAAAAIAEAAMABAIEABAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAAgAQAAAAAAAAAAAgAAAAAAAAAAAgBxABABwAMWgAwABBfQJABgACC-hKADAAEF9CEAGAAIL6DoAMAAQX0KQAYAAgvoAAA.f_wAAAAAAAAA&h=449&mm_sp&ssid=00000000-0000-0000-0000-000000000000&url=https%3A%2F%2Fwww.bfmtv.com%2Fen-direct%2F&w=798",
+      "category": "MotoGP"
+    },
+    {
+      "id": "rtp1",
+      "name": "RTP 1",
+      "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp1_logo.png",
+      "url": "https://example.com/rtp1.m3u8",
+      "category": "Portugal"
+    },
+    {
+      "id": "rtp2",
+      "name": "RTP 2",
+      "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp2_logo.png",
+      "url": "https://example.com/rtp2.m3u8",
+      "category": "Portugal"
+    },
+    {
+      "id": "sic",
+      "name": "SIC",
+      "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/sic_logo.png",
+      "url": "https://example.com/sic.m3u8",
+      "category": "Portugal"
+    },
+    {
+      "id": "tvi",
+      "name": "TVI",
+      "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/tvi_logo.png",
+      "url": "https://example.com/tvi.m3u8",
+      "category": "Portugal"
+    }
+  ]
 }
