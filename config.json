@@ -1,5 +1,4 @@
 {
-    "version": "1.0",
-    "channelsFile": "channels.json",
-    "baseUrl": "https://raw.githubusercontent.com/TheDefender44/nicotv-config/main/"
+  "channelsFile": "channels.json",
+  "categoriesFile": "categories.json"
 }
