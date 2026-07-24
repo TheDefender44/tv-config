@@ -3,7 +3,7 @@
     "id": "motogp1",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8",
+    "url": "http://4.30.180.36:8420/abc/index.m3u8?token=test",
     "category": "Sport"
   },
   {
