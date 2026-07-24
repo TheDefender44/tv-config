@@ -1,51 +1,55 @@
-{
-  "categories": [
-    {
-      "id": "motogp",
-      "name": "MotoGP",
-      "channels": [
-        {
-          "id": "motogp1",
-          "name": "MotoGP",
-          "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-          "url": "https://example.com/rtp1.m3u8",
-          "category": "MotoGP"
-        }
-      ]
-    },
-    {
-      "id": "portugal",
-      "name": "Portugal",
-      "channels": [
-        {
-          "id": "rtp1",
-          "name": "RTP 1",
-          "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp1_logo.png",
-          "url": "https://example.com/rtp1.m3u8",
-          "category": "Portugal"
-        },
-        {
-          "id": "rtp2",
-          "name": "RTP 2",
-          "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp2_logo.png",
-          "url": "https://example.com/rtp2.m3u8",
-          "category": "Portugal"
-        },
-        {
-          "id": "sic",
-          "name": "SIC",
-          "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/sic_logo.png",
-          "url": "https://example.com/sic.m3u8",
-          "category": "Portugal"
-        },
-        {
-          "id": "tvi",
-          "name": "TVI",
-          "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/tvi_logo.png",
-          "url": "https://example.com/tvi.m3u8",
-          "category": "Portugal"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "generaliste",
+    "name": "Généraliste",
+    "channels": [
+      {
+        "id": "tf1",
+        "name": "TF1",
+        "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/tf1_logo.png",
+        "url": "VOTRE_URL_M3U8_TF1",
+        "category": "Généraliste"
+      },
+      {
+        "id": "france2",
+        "name": "France 2",
+        "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/france2_logo.png",
+        "url": "VOTRE_URL_M3U8_FRANCE2",
+        "category": "Généraliste"
+      }
+    ]
+  },
+  {
+    "id": "motogp",
+    "name": "MotoGP",
+    "channels": [
+      {
+        "id": "motogp1",
+        "name": "MotoGP",
+        "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
+        "url": "VOTRE_URL_M3U8_MOTOGP",
+        "category": "MotoGP"
+      }
+    ]
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "channels": [
+      {
+        "id": "rtp1",
+        "name": "RTP 1",
+        "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp1_logo.png",
+        "url": "VOTRE_URL_M3U8_RTP1",
+        "category": "Portugal"
+      },
+      {
+        "id": "sic",
+        "name": "SIC",
+        "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/sic_logo.png",
+        "url": "VOTRE_URL_M3U8_SIC",
+        "category": "Portugal"
+      }
+    ]
+  }
+]
