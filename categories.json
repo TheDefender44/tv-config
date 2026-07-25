@@ -3,10 +3,4 @@
     "id": "sport",
     "name": "Sport",
     "channelIds": ["motogp1"]
-  },
-  {
-    "id": "portugal",
-    "name": "Portugal",
-    "channelIds": ["rtp1", "rtp2", "sic", "tvi"]
   }
-]
