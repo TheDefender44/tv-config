@@ -10,7 +10,7 @@
     "id": "rtp1",
     "name": "RTP 1",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp1_logo.png",
-    "url": "ICI_VOTRE_URL_M3U8_RTP1",
+    "url": "http://stream.mcquack.net/294/index.m3u8",
     "category": "Portugal"
   },
   {
