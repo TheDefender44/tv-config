@@ -3,7 +3,7 @@
     "id": "motogp1",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785089233/ei/cfhlaqfnDoSrp-oPwYDRuQM/ip/2a02:842a:86cb:7a01:3019:f14e:7779:657b/id/5cYH6rcpIpY.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n4g-ojxl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AZFlqhNu2ouYi3xJq4ylabH9o5Rt7V4Ibw_HLmnCN7n7FYvecLgK0nY3w_iWenbof_AdmYgzwmlDG0Tj/spc/SQ-umgpZsXliDVlJymTT1Regfup-Rn72ebtSfLrZrZSvrjTJXQ/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2191250/met/1785067633,/mh/ln/mm/44/mn/sn-n4g-ojxl/ms/lva/mv/m/mvi/2/pl/47/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992867/mt/1785067227/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJo4jU3nH2CyIidljS3enYdp6cdcqbeR2JLkpvvwEi90CIFw3-Mfsdvw5GSi_fQgW9oyCaQ8H_iK8CSGg9KzSon4T/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALdwa6aC9F07OGD7g5xNEVhSinIfpEMrx8H6fNNDiAGLAiEAnfqt3E8KzeYZq6Mw_uQc-psmEA5S2sH1ix8WJoaC9UQ%3D/playlist/index.m3u8",
     "category": "Sport"
   },
   {
