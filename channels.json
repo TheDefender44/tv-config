@@ -10,28 +10,28 @@
     "id": "rtp1",
     "name": "RTP 1",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp1_logo.png",
-    "url": ""LINK"",
+    "url": "LINK",
     "category": "Portugal"
   },
   {
     "id": "rtp2",
     "name": "RTP 2",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp2_logo.png",
-    "url": ""LINK"",
+    "url": "LINK",
     "category": "Portugal"
   },
   {
     "id": "sic",
     "name": "SIC",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/sic_logo.png",
-    "url": ""LINK"",
+    "url": "LINK",
     "category": "Portugal"
   },
   {
     "id": "tvi",
     "name": "TVI",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/tvi_logo.png",
-    "url": ""LINK"",
+    "url": "LINK",
     "category": "Portugal"
   }
 ]
