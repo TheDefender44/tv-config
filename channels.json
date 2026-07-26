@@ -31,7 +31,7 @@
     "id": "tvi",
     "name": "TVI",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/tvi_logo.png",
-    "url": "ICI_VOTRE_URL_M3U8_TVI",
+    "url": "http://170.84.165.204:80/Globo_HD/index.m3u8",
     "category": "Portugal"
   }
 ]
