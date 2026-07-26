@@ -17,7 +17,7 @@
     "id": "rtp2",
     "name": "RTP 2",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/rtp2_logo.png",
-    "url": "https://kctv.koryofront.org/stream/index.m3u8",
+    "url": "http://138.121.15.230:9002/CARACOL/index.m3u8",
     "category": "Portugal"
   },
   {
