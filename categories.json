@@ -2,6 +2,6 @@
   {
     "id": "sport",
     "name": "Sport",
-    "channelIds": ["motogp1", "motogp2", "motogp3"]
+    "channelIds": ["motogp", "motogp1", "motogp2"]
   }
 ]
