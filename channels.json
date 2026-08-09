@@ -2,21 +2,21 @@
   {
     "id": "motogp",
     "name": "MotoGP",
-    "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp1_logo.png",
+    "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "category": "Sport"
   },
   {
     "id": "motogp1",
     "name": "MotoGP 1",
-    "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp2_logo.png",
+    "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp1_logo.png",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "category": "Sport"
   },
   {
     "id": "motogp2",
     "name": "MotoGP 2",
-    "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp3_logo.png",
+    "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp2_logo.png",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "category": "Sport"
   }
