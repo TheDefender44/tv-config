@@ -3,21 +3,21 @@
     "id": "motogp",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8",
+    "url": "http://stream.mcquack.net/41/index.m3u8",
     "category": "Sport"
   },
   {
     "id": "motogp1",
     "name": "MotoGP 1",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp1_logo.png",
-    "url": "https://www.youtube.com/watch?v=UXpso0fw8KI",
+    "url": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/4/profileManifest.m3u8?_uid=adb1a57c-3b4d-41fd-aa06-e7443e256cdd&rK=a5&_did=9259646f-5518-42c4-87dd-6c3bb6bf2e44",
     "category": "Sport"
   },
   {
     "id": "motogp2",
     "name": "MotoGP 2",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp2_logo.png",
-    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8",
+    "url": "http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d",
     "category": "Sport"
   }
 ]
