@@ -3,14 +3,14 @@
     "id": "motogp",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "https://www.youtube.com/watch?v=UXpso0fw8KI",
+    "url": "http://4.30.180.36:8420/abc/index.m3u8?token=test",
     "category": "Sport"
   },
   {
     "id": "motogp1",
     "name": "MotoGP 1",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp1_logo.png",
-    "url": "https://dsk76kvc9kie6.cloudfront.net/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/4/profileManifest.m3u8?_uid=adb1a57c-3b4d-41fd-aa06-e7443e256cdd&rK=a5&_did=9259646f-5518-42c4-87dd-6c3bb6bf2e44",
+    "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
     "category": "Sport"
   },
   {
