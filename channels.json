@@ -3,7 +3,7 @@
     "id": "motogp",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "https://www.youtube.com/watch?v=UXpso0fw8KI",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1787453078/ei/NgqKaryIN7GAp-oPnqOOwQg/ip/2a02:842a:86cb:7a01:19eb:992a:eb9:ce/id/UXpso0fw8KI.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-n4g-ojxl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAlmXx90PrDUUJrT7ox4GPSiTVEwBgWA6EX6wnJjpPNCFWtdqQF_mqlc9pmn05R84C6a0hBtpg7d/spc/KBGBcugLvxoFwmRicbKYIi6iicH58uIfgA9UkNSeo20C_Fw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2170000/met/1787431481,/mh/2C/mm/44/mn/sn-n4g-ojxl/ms/lva/mv/m/mvi/1/pl/47/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1787431236/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgODLFRo5jgM-rCbsileMdZTdNN7cnGC5_cfNA8YcvSlUCIQCKpltP8Hfy4ZWJdGFPnonJCMWt7gJdn2D1bqddCKehAA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgM7xygTPKrOncjLOt82G5lKPXcxrGTIfItTXZih2pqmYCID2vdRlKvUyH5L4PFQ9ry1hunlbn0JT6MM2nwO7ahxpb/playlist/index.m3u8",
     "category": "Sport"
   },
   {
