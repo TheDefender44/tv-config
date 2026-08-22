@@ -3,21 +3,21 @@
     "id": "motogp",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "http://138.121.15.230:9002/FOX-NEWS/index.m3u8",
+    "url": "LINK",
     "category": "Sport"
   },
   {
     "id": "motogp1",
     "name": "MotoGP 1",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp1_logo.png",
-    "url": "https://live.eu-north-1a.cf.dmcdn.net/sec2(EXtqmDitJDqqehut52TJtC1RJgMQ6THxSgIUPNfPXsrch16ApGN94FR0mt6fUbar4LjlS6X-W6-kKnZ_Xo64oMzjZ5gpURtLeZzUAyiqzNDBc-vL8rwoFNk5qupGvCNK)/dm/3/x3b68jn/d/live-1080@60.m3u8?startdate=2026-07-07T08%3A07%3A42%2B0000#cell=lcf-eu-north-1a",
+    "url": "LINK",
     "category": "Sport"
   },
   {
     "id": "motogp2",
     "name": "MotoGP 2",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp2_logo.png",
-    "url": "http://stream.mcquack.net/41/index.m3u8",
+    "url": "LINK",
     "category": "Sport"
   }
 ]
