@@ -17,7 +17,7 @@
     "id": "motogp2",
     "name": "MotoGP 2",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp2_logo.png",
-    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8",
+    "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8",
     "category": "Sport"
   }
 ]
