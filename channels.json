@@ -3,14 +3,14 @@
     "id": "motogp",
     "name": "MotoGP",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp_logo.png",
-    "url": "http://stream.mcquack.net/490/index.m3u8",
+    "url": "LINK",
     "category": "Sport"
   },
   {
     "id": "motogp1",
     "name": "MotoGP 1",
     "logo": "https://raw.githubusercontent.com/TheDefender44/tv-config/main/logos/motogp1_logo.png",
-    "url": "https://tvsen7.aynascope.net/foxsports2/index.m3u8",
+    "url": "LINK",
     "category": "Sport"
   },
   {
